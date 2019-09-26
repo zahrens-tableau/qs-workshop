@@ -9,7 +9,7 @@
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "YOUR-KEYPAIR-HERE"
+        "ParameterValue": "aws-session"
     },
     {
         "ParameterKey": "RemoteAccessCIDR",
@@ -28,3 +28,4 @@
         "ParameterValue": "$[taskcat_autobucket]"
     }
 ]
+
